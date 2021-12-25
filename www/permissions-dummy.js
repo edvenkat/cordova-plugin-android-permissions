@@ -145,7 +145,7 @@ function Permissions() {
     this.WRITE_CALENDAR = 'android.permission.WRITE_CALENDAR';
     this.WRITE_CALL_LOG = 'android.permission.WRITE_CALL_LOG';
     this.WRITE_CONTACTS = 'android.permission.WRITE_CONTACTS';
-    this.WRITE_EXTERNAL_STORAGE = 'android.permission.WRITE_EXTERNAL_STORAGE';
+//     this.WRITE_EXTERNAL_STORAGE = 'android.permission.WRITE_EXTERNAL_STORAGE';
     this.WRITE_GSERVICES = 'android.permission.WRITE_GSERVICES';
     this.WRITE_HISTORY_BOOKMARKS = 'com.android.browser.permission.WRITE_HISTORY_BOOKMARKS';
     this.WRITE_PROFILE = 'android.permission.WRITE_PROFILE';
